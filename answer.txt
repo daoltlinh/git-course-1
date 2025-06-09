@@ -1,0 +1,3 @@
+1. Đổi tên và email
+- Email: git cofig --global user.email "<email>"
+- Name: git config --global user.name "<name>"
